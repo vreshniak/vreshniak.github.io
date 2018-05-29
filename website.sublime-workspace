@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_sass/variables.scss",
+			"settings":
+			{
+				"buffer_size": 2060,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/page.scss",
+			"settings":
+			{
+				"buffer_size": 14694,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 1163,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/note.html",
+			"settings":
+			{
+				"buffer_size": 2093,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 414.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 771.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vv2/OneDrive/Documents/html/Notes"
+	],
+	"file_history":
+	[
+		"/Users/vv2/OneDrive/Documents/html/Notes/source/Reviews/Books/Aubert_Math_Prob_Image_Proc.md",
+		"/Users/vv2/OneDrive/Documents/html/Notes/source/Notes/Curvilinear_coordinates.md",
+		"/Users/vv2/OneDrive/Documents/html/Notes/Gemfile",
+		"/Users/vv2/OneDrive/Documents/html/Notes/_includes/_latex_definitions.html",
+		"/Users/vv2/OneDrive/Documents/html/Notes/source/Notes/Corsing_ideas.md",
+		"/C/Users/vreshniak/Box Sync/html/Notes/source/Reviews/Books/Aubert_Math_Prob_Image_Proc.md",
+		"/Users/vv2/Box Sync/html/Notes/_includes/_latex_definitions.html",
+		"/Users/vv2/Box Sync/html/Notes/_config.yml",
+		"/Users/vv2/Box Sync/html/Notes/_data/navigation.yml",
+		"/Users/vv2/Box Sync/html/Notes/source/Reviews/Papers/Bungartz_Sparse_grids.md",
+		"/Users/vv2/Box Sync/html/Notes/_includes/_toc_notes.html",
+		"/Users/vv2/Box Sync/html/Notes/Gemfile",
+		"/Users/vv2/Box Sync/html/Notes/index.md",
+		"/Users/vv2/Box Sync/html/Notes/_includes/_navigation.html",
+		"/Users/vv2/Box Sync/html/Notes/source/Notes/Corsing_ideas.md",
+		"/Users/vv2/Box Sync/html/Notes/source/PaperReviewsTOC.md",
+		"/Users/vv2/Box Sync/html/Notes/source/BookReviewsTOC.md",
+		"/Users/vv2/Box Sync/html/Notes/source/NotesTOC.md",
+		"/Users/vv2/Box Sync/html/Notes/source/ReviewsTOC.md",
+		"/Users/vv2/Box Sync/html/Notes/source/TOC.md",
+		"/Users/vv2/Box Sync/html/Notes/_sass/page.scss",
+		"/Users/vv2/Box Sync/html/Notes/_includes/_author-bio.html",
+		"/Users/vv2/Box Sync/html/Notes/_includes/_head.html",
+		"/Users/vv2/Box Sync/html/Notes/source/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/_layouts/note.html",
+		"/Users/vv2/MyStuff/html/Notes/index.md",
+		"/Users/vv2/MyStuff/html/Notes/source/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/_posts/2016-07-23-example-post.md",
+		"/Users/vv2/MyStuff/html/Notes/_data/navigation.yml",
+		"/Users/vv2/MyStuff/html/Notes/_source/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/files/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/_posts/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/_drafts/Corsing_ideas.md",
+		"/Users/vv2/MyStuff/html/Notes/_config.yml",
+		"/Users/vv2/MyStuff/html/Notes/_posts/2018-03-22-welcome-to-jekyll.markdown"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bf",
+			"image",
+			"semicontinuous_",
+			"container",
+			"page",
+			"main",
+			"page",
+			"bio-photo",
+			"container",
+			"highlightcolor",
+			"main",
+			"prefix",
+			"article-author-side",
+			"package",
+			"article-wrap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_sass/variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/note.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

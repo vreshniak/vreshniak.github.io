@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Home
+  url: /
+
+#- title: Presentations
+#  url: /presentations/
+
+- title: Resume
+  url: /resume/
+
+#- title: Notes
+#  url: /toc/
+
+# - title: Blog
+#   url: /blog/
