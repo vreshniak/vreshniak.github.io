@@ -15,6 +15,7 @@ As a part of my master's degree in Thermal Physics, my previous research experie
 
 I am a staff mathematician in the [Data Analysis and Machine Learning Group](https://csmd.ornl.gov/group/data-analysis-and-ml) at Oak Ridge National Laboratory.
 
+I received my PhD in Computational Science from [Middle Tennessee State University](http://www.mtsu.edu/programs/computational-science-phd/index.php).
 At MTSU, I worked under the supervision of professors Yuri Melnikov and Abdul Khaliq.
 My [dissertation](http://jewlscholar.mtsu.edu/bitstream/handle/mtsu/5281/Reshniak_mtsu_0170E_10781.pdf?sequence=1&isAllowed=y) was devoted to the construction of the acceleration techniques for the multilevel Monte Carlo method in application to several classes of stochastic and random differential equations.
 As a part of my master's degree in Thermal Physics, my previous research experience also includes computational mechanics and mathematical modeling of multiphase flows.
